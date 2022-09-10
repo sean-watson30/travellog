@@ -4,7 +4,10 @@ import data from "../data/data.js";
 function Header() {
   console.log(data)
   return (
-    <h1>Header</h1>
+    <header>
+      <img src="" alt="" />
+      <h1>My Travel Journal</h1>
+    </header>
   )
 }
 
