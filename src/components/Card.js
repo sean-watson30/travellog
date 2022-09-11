@@ -2,7 +2,7 @@ import React from "react";
 
 function Card({ item }) {
   return (
-    <div>
+    <div className="card">
       <h1>Card Component</h1>
       <h5>{ item.location }</h5>
       <h2>{ item.title }</h2>
