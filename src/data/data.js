@@ -7,6 +7,15 @@ const data = [
     endDate: 'tomorrow',
     description: 'this was a cool thing',
     imageUrl: 'img',
+  },
+  {
+    title: 'test2',
+    location: 'somewhere else',
+    googleMapsUrl: 'URL',
+    startDate: 'yesterday',
+    endDate: 'tomorrow',
+    description: 'this was a cool thing',
+    imageUrl: 'img',
   }
 ]
 
