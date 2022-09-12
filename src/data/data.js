@@ -1,21 +1,21 @@
 const data = [
   {
-    title: 'test',
-    location: 'somewhere',
+    title: 'Venice',
+    location: 'Italy',
     googleMapsUrl: 'URL',
     startDate: 'yesterday',
     endDate: 'tomorrow',
     description: 'this was a cool thing',
-    imageUrl: 'img',
+    imageUrl: 'https://i.imgur.com/GPlafS1.jpg',
   },
   {
-    title: 'test2',
-    location: 'somewhere else',
+    title: 'Dubrovnik',
+    location: 'Croatia',
     googleMapsUrl: 'URL',
     startDate: 'yesterday',
     endDate: 'tomorrow',
     description: 'this was a cool thing',
-    imageUrl: 'img',
+    imageUrl: 'https://i.imgur.com/ciZ888z.jpg',
   }
 ]
 
