@@ -35,6 +35,24 @@ const data = [
     description: 'this was a cool thing',
     imageUrl: 'https://i.imgur.com/sZc6dQP.jpg',
   },
+  {
+    title: 'Kotor',
+    location: 'Montenegro',
+    googleMapsUrl: 'URL',
+    startDate: 'yesterday',
+    endDate: 'tomorrow',
+    description: 'this was a cool thing',
+    imageUrl: 'https://i.imgur.com/eIgZSDw.jpg',
+  },
+  {
+    title: 'Santorini',
+    location: 'Greece',
+    googleMapsUrl: 'URL',
+    startDate: 'yesterday',
+    endDate: 'tomorrow',
+    description: 'this was a cool thing',
+    imageUrl: 'https://i.imgur.com/oqHRtm8.jpg',
+  },
 ]
 
 export default data

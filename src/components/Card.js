@@ -7,6 +7,7 @@ function Card({ item }) {
         <img className="card-img-top" src={ item.imageUrl } alt={ item.title }/>
         <div className="card-body">
           <div className="top-line">
+            <i class="bi bi-geo-alt-fill"></i>
             <h6 className="card-subtitle mb-2 text-muted">{ item.location }</h6>
             <a href={ item.googleMapsUrl }>View on Google Maps</a>
           </div>
