@@ -4,7 +4,7 @@ import data from "../data/data.js";
 function Header() {
   console.log(data)
   return (
-    <header className="pink-700">
+    <header className="header">
       <img src="" alt="" />
       <h1>My Travel Journal</h1>
     </header>

@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+.header {
+  text-align: center;
+  /* box-shadow: 2% black; */
+}
+
 .main-container {
   display: flex;
   flex-flow: row wrap;
@@ -20,4 +25,11 @@ code {
 
 .card {
   margin: 2%;
+}
+
+.top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2%;
 }
