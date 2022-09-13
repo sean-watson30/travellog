@@ -7,11 +7,13 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      {
-        data.map(item => {
-          return <Card item={item}/>
-        })
-      }
+      <div className='main-container'>
+        {
+          data.map(item => {
+            return <Card item={item}/>
+          })
+        }
+      </div>
     </div>
   );
 }
