@@ -17,6 +17,7 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(12, 103, 156);
   /* box-shadow: 2% black; */
 }
 
@@ -28,6 +29,7 @@ code {
 
 .card {
   margin: 2%;
+  box-shadow: 5px;
 }
 
 .top-line {
