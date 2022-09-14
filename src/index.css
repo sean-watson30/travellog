@@ -18,7 +18,15 @@ code {
   justify-content: center;
   align-items: center;
   background-color: rgb(12, 103, 156);
+  color: white;
   /* box-shadow: 2% black; */
+}
+
+#header-content {
+  /* display: flex;
+  justify-content: space-around;
+  align-items: center; */
+  padding: 1%;
 }
 
 .main-container {

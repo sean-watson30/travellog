@@ -5,9 +5,9 @@ function Header() {
   console.log(data)
   return (
     <header className="header">
+        <i className="bi bi-globe2" id="header-content"></i>
+        <h1 id="header-content">My Travel Journal</h1>
       {/* <img src="" alt="" /> */}
-      <i class="bi bi-globe2"></i>
-      <h1>My Travel Journal</h1>
     </header>
   )
 }
